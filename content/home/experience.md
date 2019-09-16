@@ -18,27 +18,29 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Developmental Mathematics Faculty"
+  company = "Coconino Community College"
+  company_url = "https://www.coconino.edu"
+  location = "Flagstaff, Arizona"
+  date_start = "2019-08-26"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Fall 2019 - Instructor of record for two sections of MAT 091: Beginning Algebra.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "STEM Education Integrator"
+  company = "Americorps VISTA, W.F. Killip Elementary School"
+  company_url = "https://www.fusd1.org/killip"
+  location = "Flagstaff, Arizona"
+  date_start = "2019-04-15"
+  date_end = ""
+  description = """
+
+  Building capacity in Killip's STEM Lab by working on several projects. These include an improved inventory check in/check out system using Python/Google Colab for lab materials, building problem banks for more interactive assessments in Synergy, and designing a system for other Americorps VISTAs to track their time, projects, and created documents accurately through Google Sheets and R. 
+
+  Coordinating the Girls Teaching Girls and Evergreens after-school programs which include developing curriculum, training and coordinating 10-15 volunteers, and direct instruction. Assisting the principal and STEM coordinator in data collection and analysis on project impacts, developing scripts in Python for long-term monitoring and sustainability. Have currently written three grant proposals that use this data
+
+  """
 
 +++
