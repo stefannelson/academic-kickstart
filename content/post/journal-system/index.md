@@ -28,4 +28,3 @@ image:
 projects: []
 ---
 
-Hello!

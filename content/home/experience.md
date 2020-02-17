@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Recent Experience"
 subtitle = ""
 
 # Date format for experience
@@ -25,7 +25,11 @@ date_format = "Jan 2006"
   date_start = "2019-08-26"
   date_end = ""
   description = """
-  Fall 2019 - Instructor of record for two sections of MAT 091: Beginning Algebra.
+  Instructor of Record for the following:
+
+  **Fall 2019** - Two sections of MAT 091: Beginning Algebra.
+
+  **Spring 2020** - One section of MAT 097: Intermediate Algebra and one in-class and Zoom-based section of MAT 091: Beginning Algebra. 
   """
 
 [[experience]]
@@ -37,9 +41,13 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
-  Building capacity in Killip's STEM Lab by working on several projects. These include an improved inventory check in/check out system using Python/Google Colab for lab materials, building problem banks for more interactive assessments in Synergy, and designing a system for other Americorps VISTAs to track their time, projects, and created documents accurately through Google Sheets and R. 
+  Coordinating three after-school programs for Killip Elementary School that empower underrepresented student populations - Girls Teaching Girls, Evergreens (sustainability green team), and Astronomy Club. This includes direct instruction, developing curriculum, and volunteer recruitment/training from sources such as Northern Arizona University (NAU) graduate programs and the City of Flagstaff. 
 
-  Coordinating the Girls Teaching Girls and Evergreens after-school programs which include developing curriculum, training and coordinating 10-15 volunteers, and direct instruction. Assisting the principal and STEM coordinator in data collection and analysis on project impacts, developing scripts in Python for long-term monitoring and sustainability. Have currently written three grant proposals that use this data
+  Developed a district-wide professional development for Python classroom integration with Google Colaboratory. 
+
+  Collaborated to procure grants (over $45,000) from the Arizona Community Foundation (x2) and Arizona Public Service Electric to build capacity for STEM Lab and Killip at large. Utilized DecisionED's Data Warehouse and Killip staff to compile a comprehensive digital portfolio to get Cognia STEM Certification. 
+
+  Coordinating the first annual Night of Code and "We Love STEM!" Night events with community volunteers from Coconino Community College, W.L. Gore and Associates, NAU's Society of Women Engineers, etc. to connect students and STEM professionals.
 
   """
 

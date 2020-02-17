@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: STEM Education Integrator and Developmental Math Instructor
+role: STEM Education Integrator & Developmental Math Instructor
 
 # Organizations/Affiliations
 organizations:
@@ -21,12 +21,13 @@ organizations:
 bio: I am a instructor who is passionate about STEM education.
 
 interests:
+- Cybersecurity
 - STEM Education
 - Open Source Software
 
 education:
   courses:
-  - course: B.S. in Computational Mathematics
+  - course: B.S. in Computational Mathematics (Statistics & Astronomy minors)
     institution: Minnesota State University Moorhead
     year: 2018
 
@@ -63,6 +64,8 @@ user_groups:
 - Visitors
 ---
 
-My name is Stefan Nelson and I am a graduate of Minnesota State University Moorhead with a Computational Mathematics major with minors in Statistics and Astronomy. Throughout my years in higher education, I have used Python, C++, and R extensively for projects in data analysis and undergraduate research in numerical modelling of partial differential equations.
+I am a graduate of Minnesota State University Moorhead with a Computational Mathematics degree with minors in Statistics and Astronomy. Much of my experience lies in higher education, using Python, C++, and R extensively for projects in data analysis and numerical modelling of partial differential equations.
 
-While completing my undergraduate degree, I discovered a love for education and national service that brought me to Flagstaff, AZ. Since mid-2018, I have been in roles such as an instructor and administrator at Northern Arizona University. Recently, I have transitioned to being the STEM Education Integrator at Killip Elementary School though Americorps VISTA. I am deeply passionate in applying my skills in technology and mathematics to problems in education, and VISTA has given me an excellent outlet to do so. I have also recently taken on teaching and tutoring roles at Coconino Community College. 
+While completing my undergraduate degree, I discovered a love for education that brought me to Flagstaff, AZ. Since mid-2018, I have taught at Northern Arizona University, Coconino Community College, and W.F. Killip Elementary School in various capacities (See "Experience"). I value the power of STEM in not only creating opportunities for efficiency, security, and evidence-based decision making in education, but also to empower underrepresented communities. 
+
+I would love to connect with you! Please feel free to contact me using any of the avenues off to the side. 
