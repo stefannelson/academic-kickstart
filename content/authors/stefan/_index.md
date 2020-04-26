@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a instructor who is passionate about STEM education.
+bio: An instructor who is passionate about STEM education.
 
 interests:
 - Cybersecurity
