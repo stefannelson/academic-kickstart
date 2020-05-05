@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Education"
-  content = "See all education posts [here](/tags/education)"
+  content = "See all education posts [here](/tags/education/)"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -36,7 +36,7 @@ height = ""
 
 [[item]]
   title = "Computer Science"
-  content = "See all computer science posts [here](/tags/ComputerScience)"
+  content = "See all computer science posts [here](/tags/computer-science)"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).

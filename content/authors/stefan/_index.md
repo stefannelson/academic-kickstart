@@ -48,6 +48,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/stefanwnelson
+- icon: strava
+  icon_pack: fab
+  link: https://www.strava.com/athletes/35976633
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -64,7 +67,7 @@ user_groups:
 - Visitors
 ---
 
-I am a graduate of Minnesota State University Moorhead with a Computational Mathematics degree with minors in Statistics and Astronomy. Much of my experience lies in higher education, using Python, C++, and R extensively for projects in data analysis and numerical modelling of partial differential equations.
+I am an incoming graduate student at [Northern Arizona University](https://www.nau.edu) in Computer Science, formerly from [Minnesota State University Moorhead](https://www.mnstate.edu) with a Computational Mathematics degree with minors in Statistics and Astronomy. Much of my experience lies in higher education, using Python, C++, and R extensively for projects in data analysis and numerical modelling of partial differential equations.
 
 While completing my undergraduate degree, I discovered a love for education that brought me to Flagstaff, AZ. Since mid-2018, I have taught at Northern Arizona University, Coconino Community College, and W.F. Killip Elementary School in various capacities (See "Experience"). I value the power of STEM in not only creating opportunities for efficiency, security, and evidence-based decision making in education, but also to empower underrepresented communities. 
 
