@@ -69,6 +69,6 @@ user_groups:
 
 I am an incoming graduate student at [Northern Arizona University](https://www.nau.edu) in Computer Science, formerly from [Minnesota State University Moorhead](https://www.mnstate.edu) with a Computational Mathematics degree with minors in Statistics and Astronomy. Much of my experience lies in higher education, using Python, C++, and R extensively for projects in data analysis and numerical modelling of partial differential equations.
 
-While completing my undergraduate degree, I discovered a love for education that brought me to Flagstaff, AZ. Since mid-2018, I have taught at Northern Arizona University, Coconino Community College, and W.F. Killip Elementary School in various capacities (See "Experience"). I value the power of STEM in not only creating opportunities for efficiency, security, and evidence-based decision making in education, but also to empower underrepresented communities. 
+While completing my undergraduate degree, I discovered a love for education that brought me to Flagstaff, AZ. Since mid-2018, I have taught at Northern Arizona University, Coconino Community College, and W.F. Killip Elementary School in various capacities. I value the power of STEM in not only creating opportunities for efficiency, security, and evidence-based decision making in education, but also to empower underrepresented communities. 
 
 I would love to connect with you! Please feel free to contact me using any of the avenues off to the side. 
