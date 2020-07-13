@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: STEM Education Integrator & Developmental Math Instructor
+role: Graduate Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: Americorps VISTA + Coconino Community College
-  url: ""
+- name: Northern Arizona University 
+  url: "https://www.nau.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: An instructor who is passionate about STEM education.
@@ -27,6 +27,9 @@ interests:
 
 education:
   courses:
+  - course: M.S. in Computer Science
+    institution: Northern Arizona University 
+    year: 2022 (Expected)
   - course: B.S. in Computational Mathematics (Statistics & Astronomy minors)
     institution: Minnesota State University Moorhead
     year: 2018
@@ -67,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-I am an incoming graduate student at [Northern Arizona University](https://www.nau.edu) in Computer Science, formerly from [Minnesota State University Moorhead](https://www.mnstate.edu) with a Computational Mathematics degree with minors in Statistics and Astronomy. Much of my experience lies in higher education, using Python, C++, and R extensively for projects in data analysis and numerical modelling of partial differential equations.
+I am a graduate research assistant at [Northern Arizona University](https://www.nau.edu) with a Computational Mathematics degree from [Minnesota State University Moorhead](https://www.mnstate.edu) with minors in Statistics and Astronomy. My research involves post-quantum cryptography.
 
 While completing my undergraduate degree, I discovered a love for education that brought me to Flagstaff, AZ. Since mid-2018, I have taught at Northern Arizona University, Coconino Community College, and W.F. Killip Elementary School in various capacities. I value the power of STEM in not only creating opportunities for efficiency, security, and evidence-based decision making in education, but also to empower underrepresented communities. 
 
